@@ -1,0 +1,15 @@
+c:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.AssemblyInfoInputs.cache
+c:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.AssemblyInfo.cs
+c:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+c:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.sourcelink.json
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\bin\Debug\net9.0\GestionEmpleados.exe
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\bin\Debug\net9.0\GestionEmpleados.deps.json
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\bin\Debug\net9.0\GestionEmpleados.runtimeconfig.json
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\bin\Debug\net9.0\GestionEmpleados.dll
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\bin\Debug\net9.0\GestionEmpleados.pdb
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.dll
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\refint\GestionEmpleados.dll
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.pdb
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\GestionEmpleados.genruntimeconfig.cache
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\GestionEmpleados\obj\Debug\net9.0\ref\GestionEmpleados.dll

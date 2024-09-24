@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.AssemblyInfo.cs
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.sourcelink.json
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\bin\Debug\net9.0-windows\app.exe
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\bin\Debug\net9.0-windows\app.deps.json
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\bin\Debug\net9.0-windows\app.runtimeconfig.json
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\bin\Debug\net9.0-windows\app.dll
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\bin\Debug\net9.0-windows\app.pdb
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.dll
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\refint\app.dll
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.pdb
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\app.genruntimeconfig.cache
+C:\Users\usuario\Documents\ABY\POO_CLASES\MentoriaBell\POOControles\app\obj\Debug\net9.0-windows\ref\app.dll
